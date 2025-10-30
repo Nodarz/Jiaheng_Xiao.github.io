@@ -46,9 +46,5 @@ redirect_from:
 - *2021.06 - 2024.06*, Jilin University, M.S. degree. Transportation Information Engineering and Conctrol. 
 - *2016.09 - 2020.06*, Jilin University, B.S. degree. Automotive Application Engineering.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Exchanges
 - *2022.02 - 2022.03*, Progerss on Smart Transportation in Singapore, NUS
