@@ -21,13 +21,13 @@ redirect_from:
 
 My research focuses on 
 
-（研究兴趣）My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 You can reach me via email at tramasterxxx@gmail.com. 🤝 I am actively seeking collaborations in Autonomous driving-related domains! If you’re interested in AI applications in AVs, trajectory prediction, probability analysis, or any related fields, feel free to reach out!
 
 📋 Note: I am currently applying for 2026 PhD programs! If you are interested in my background, I’d love to receive your guidance. Also always happy to chat over coffee!
 
 # 🔬 Research Interests
+
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Neural Networks and Learning Systems(JCR Q1, IF=8.9). 
