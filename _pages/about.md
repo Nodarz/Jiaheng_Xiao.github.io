@@ -27,8 +27,10 @@ You can reach me via email at tramasterxxx@gmail.com. 🤝 I am actively seeking
 📋 Note: I am currently applying for 2026 PhD programs! If you are interested in my background, I’d love to receive your guidance. Also always happy to chat over coffee!
 
 # 🔬 Research Interests
+- 
+- 
 
-
+  
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Neural Networks and Learning Systems(JCR Q1, IF=8.9). 
 
@@ -37,11 +39,12 @@ You can reach me via email at tramasterxxx@gmail.com. 🤝 I am actively seeking
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='structure.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**DPIU: Dynamic Pedestrian Intention Understanding Through Cognitive Decision-Making**
 
 **Jiaheng Xiao**, Zhihui Li, Yu Sun, Mingxin Wang, Yu Xie, Qin Ma, Xin Wang
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  The proposed DPIU framework links future intentions to historical experiences, and, grounded in cognitive decision-making mechanisms derived from human physiology, is designed to predict pedestrian motion by inferring inherent movement intentions.
+- The method substantially improves predictive performance in dynamic scenarios, providing a valuable tool for autonomous driving applications.
 </div>
 </div>
 
