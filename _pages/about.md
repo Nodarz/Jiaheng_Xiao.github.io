@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-（个人介绍）Welcome to my homepage! I am a graduate with a M.S. degree in Transportation Information Engineering and Control, Jilin University, advised by Zhaowei Qu(曲昭伟). Prior to that, I obtained my Bachelor’s degree in Automotive Application Engineering from Jilin University. 
+Welcome to my homepage! I am a graduate with a M.S. degree in Transportation Information Engineering and Control, Jilin University, advised by Zhaowei Qu(曲昭伟). Prior to that, I obtained my Bachelor’s degree in Automotive Application Engineering from Jilin University. 
 
 My research focuses on developing the infrastructure of the next-generation artificial intelligence techniques to enhance its effectiveness and practical application in autonomous driving. I am particularly dedicated to creating flexible predictive models with multimodal and multi-agent learning, aimed at reducing the damage suffered by VRUs through the integration of traffic data.
 
@@ -25,7 +25,7 @@ You can reach me via email at tramasterxxx@gmail.com. 🤝 I am actively seeking
 
 # 🔬 Research Interests
 - **Multi-scale pedestrian trajectory prediction model based on pedestrian cognition**: I am committed to developing human-centered, high-performance pedestrian trajectory prediction models capable of analyzing multi-agent interactions and capturing complex surrounding scenes to provide more accurate and robust behavior predictions.
-- **1**
+- **Flexible real-time deep learning intelligent vehicles models**: Develop advanced AI models that can handle autonomous driving tasks in real time and effectively integrate various types of vehicle data (images, radars, historical results) to provide more comprehensive and accurate intelligent driving planning.
 
 # 🌱 Long-term Vision
 I aspire to to become  a compound talent who master large-scale traffic data, multi-modal learning, and end-to-end autonomous driving applications. My long-term goal is to bridge the gap between cutting-edge artificial intelligence research and real-world traffic environments, driving technological innovation and product commercialization. Ultimately, I hope to ensure the safety of VRUs, reducing casualties and economic losses while bringing broader societal benefits.
